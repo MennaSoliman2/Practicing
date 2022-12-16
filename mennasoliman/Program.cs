@@ -91,7 +91,7 @@ if(newstr==str)
 }*/
 ///////////////////////////////////////////////////////////////////////////////////////////
 					//Remove Duplicate
-/*Console.Write("Enter a string: ");
+Console.Write("Enter a string: ");
 string str=Console.ReadLine();
 string newstr="";
 for(int i=0;i<str.Length;i++)
@@ -101,7 +101,7 @@ for(int i=0;i<str.Length;i++)
 		newstr+=str[i];
 	}
 }
-Console.WriteLine(newstr);*/
+Console.WriteLine(newstr);
 //////////////////////////////////////////////////////////////////////////////////////////////
 					//Earliest Nearest value from Mean
 
